@@ -1,0 +1,4 @@
+<?php
+	$pagesize = 8;
+	
+?>
